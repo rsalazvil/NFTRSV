@@ -1,2 +1,2 @@
-# NFTRSV
-Actividad NFT curso ethereum 2
+# RSVACTIVIDAD1curso2
+Actividad 1 curso ethereum 2
