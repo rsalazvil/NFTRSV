@@ -11,7 +11,7 @@ contract NFTDeploy is Script {
         vm.startBroadcast(deployerPrivateKey);
 
         NFT nft = new NFT("RSVILL","RSV");
-        console.log("Staker contract deployed at: ", address(nft));
+        console.log("NFT contract deployed at: ", address(nft));
 
         vm.stopBroadcast();
     }
